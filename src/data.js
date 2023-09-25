@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Created collaborative object-oriented classes for simulating a game involving ants and beetles, complete with a user interface to control rounds, and employed control structures and method overloading for dynamic movement and interactions.",
     image: "./antvbeetle.gif",
-    link: "https://github.com/eddgar02/Projects/tree/main/AntsVsBeetles.com",
+    link: "https://github.com/eddgar02/Projects/tree/main/AntsVsBeetles",
   },
   {
     title: "Intergral Calculator",
