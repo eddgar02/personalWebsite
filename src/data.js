@@ -32,5 +32,4 @@ export const skills = [
   "Java",
   "C/C++",
   "Javascipt",
-  "CSS",
 ];
