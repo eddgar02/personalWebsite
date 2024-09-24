@@ -23,13 +23,19 @@ export const projects = [
     image: "./baserec.gif",
     link: "https://github.com/eddgar02/Projects/tree/main/BaseballRecordManagement",
   },
-  
 ];
-
-
 
 export const skills = [
   "Java",
   "C/C++",
   "Javascipt",
+  "HTML",
+  "CSS",
+  "Python",
+  "SQL",
+  "React",
+  "Node",
+  "TailwindCSS",
+  "Git",
+  "Docker",
 ];
